@@ -2,7 +2,7 @@ Ola David Ayobami
 
 ## About Me
 
-I am a 3rd-year Mechatronics Engineering student with a keen interest in data analysis and system/algorithmic design in Machine Learning and AI. My ultimate career goal is to specialize in these areas and contribute to the development of innovative solutions that leverage data-driven insights.
+4th Year Mechatronics Engineering student focused on software development, data analysis, and AI system design. Interested in solving people-centered problems through machine learning and algorithmic thinking. Experienced in smart grid system design and collaborative development. Thrives in team settings, enjoys untangling complex systems, and oddly comfortable with chaos—possibly due to reading too much WWII history.
 
 ## Skills
 
@@ -15,4 +15,3 @@ I am a 3rd-year Mechatronics Engineering student with a keen interest in data an
 ## Contact Me
 
 - Email: oladavid151@gmail.com
-
